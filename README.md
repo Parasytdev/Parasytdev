@@ -1,50 +1,64 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Katsuya&fontSize=80&fontAlignY=35&desc=Building%20the%20next%20big%20thing%20🚀&descAlignY=55&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=220&section=header&text=katsuyadevx&fontSize=65&fontAlignY=38&fontColor=FF2244&desc=Building%20things%20that%20don't%20exist%20yet&descAlignY=58&descSize=18&animation=fadeIn" />
 </div>
 
 <div align="center">
-
-### 👋 Hey, je suis **Katsuya**
-#### 20 ans • Paris 🗼 • Developer & Creator
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&lines=Roblox+Game+Developer+🎮;SaaS+Builder+%F0%9F%9B%A0%EF%B8%8F;TikTok+Project+Coming+Soon+%F0%9F%8E%B5;Always+building+something+new...)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Ce que je build en ce moment
-
-</div>
 
 ```
-🎮  AAA Roblox Game 2026    ████████████░░░░  75%  en dev
-🛠️  SaaS TikTok Project     ████░░░░░░░░░░░░  25%  coming soon
+██╗  ██╗ █████╗ ████████╗███████╗██╗   ██╗ █████╗ 
+██║ ██╔╝██╔══██╗╚══██╔══╝██╔════╝██║   ██║██╔══██╗
+█████╔╝ ███████║   ██║   ███████╗██║   ██║███████║
+██╔═██╗ ██╔══██║   ██║   ╚════██║██║   ██║██╔══██║
+██║  ██╗██║  ██║   ██║   ███████║╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2244&center=true&vCenter=true&width=600&lines=20+•+Paris+🗼;SaaS+Builder+🛠️;Full-Stack+Developer;Shipping+products+that+matter.;Next+project+%3E+TikTok+SaaS+👀)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/katsuyadevx/katsuyadevx/raw/main/hell.gif" width="100%" style="border-radius:8px"/>
+</div>
+
+---
+
+<div align="center">
+
+## ─── ABOUT ───
+
+</div>
+
+```rust
+struct Katsuya {
+    age:        u8   = 20,
+    location:   &str = "Paris, France 🗼",
+    focus:      &str = "SaaS • Full-Stack • Product",
+    status:     &str = "Building in silence, shipping in public",
+    next_drop:  &str = "TikTok SaaS — coming soon 👀",
+}
 ```
 
 ---
 
 <div align="center">
 
-## ⚡ Stack & Tools
+## ─── STACK ───
 
 </div>
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF2244)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=FF2244)
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=FF2244)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=FF2244)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF2244)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=for-the-badge&logo=nextdotjs&logoColor=FF2244)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF2244)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=FF2244)
 
 </div>
 
@@ -52,23 +66,25 @@
 
 <div align="center">
 
-## 🎯 Projets
+## ─── PROJECTS ───
 
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🎮 AAA Roblox 2026</h3>
-      <p>Jeu Roblox next-gen avec système de pets, loot, progression RPG et monétisation avancée. Conçu pour devenir viral.</p>
-      <img src="https://img.shields.io/badge/Status-En_Dev-FF6EB4?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-Lua-2C2D72?style=flat-square" />
+      <h3>🩸 TikTok SaaS</h3>
+      <p>Prochain projet. Outil SaaS autour de TikTok.<br/>Annonce bientôt — <b>stay tuned.</b></p>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-In_Progress-FF2244?style=flat-square&labelColor=0D0D0D"/>
+      <img src="https://img.shields.io/badge/ETA-2026-555?style=flat-square&labelColor=0D0D0D"/>
     </td>
     <td align="center" width="50%">
-      <h3>🛠️ SaaS TikTok</h3>
-      <p>Projet SaaS autour de TikTok. Annonce bientôt. Stay tuned 👀</p>
-      <img src="https://img.shields.io/badge/Status-Coming_Soon-black?style=flat-square" />
-      <img src="https://img.shields.io/badge/Stack-TBA-555?style=flat-square" />
+      <h3>⚙️ More soon</h3>
+      <p>D'autres projets en cours.<br/>Tout ce que je build, je le ship.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Status-Stealth-222?style=flat-square&labelColor=0D0D0D"/>
+      <img src="https://img.shields.io/badge/Visibility-Private-FF2244?style=flat-square&labelColor=0D0D0D"/>
     </td>
   </tr>
 </table>
@@ -77,14 +93,14 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## ─── STATS ───
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Katsuya&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=FF6EB4&icon_color=B06EFF&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsuya&layout=compact&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=FF6EB4&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=katsuyadevx&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2244&icon_color=FF2244&text_color=CCCCCC&ring_color=FF2244" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuyadevx&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF2244&text_color=CCCCCC" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Katsuya&theme=radical&hide_border=true&background=0D0D1A&ring=FF6EB4&fire=FF6EB4&currStreakLabel=B06EFF)
+![Streak](https://streak-stats.demolab.com?user=katsuyadevx&theme=dark&hide_border=true&background=0D0D0D&ring=FF2244&fire=FF2244&currStreakLabel=FF2244&sideLabels=CCCCCC&dates=555555)
 
 </div>
 
@@ -92,11 +108,9 @@
 
 <div align="center">
 
-## 🌐 Me retrouver
+## ─── ACTIVITY ───
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=katsuyadevx&bg_color=0d0d0d&color=FF2244&line=FF2244&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -104,8 +118,20 @@
 
 <div align="center">
 
-*"Build fast. Ship often. Stay hungry."* 🔥
+## ─── CONTACT ───
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+[![TikTok](https://img.shields.io/badge/TikTok-0D0D0D?style=for-the-badge&logo=tiktok&logoColor=FF2244)](https://tiktok.com)
+[![Discord](https://img.shields.io/badge/Discord-0D0D0D?style=for-the-badge&logo=discord&logoColor=FF2244)](https://discord.com)
+[![X](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=FF2244)](https://x.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=katsuyadevx&color=FF2244&style=flat-square&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+> *"Work in silence. Let the product speak."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=100&section=footer" />
 
 </div>

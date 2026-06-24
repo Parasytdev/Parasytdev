@@ -9,6 +9,9 @@
 ### 👋 Hey, je suis **Katsuya**
 #### 20 ans • Paris 🗼 • Developer & Creator
 
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&lines=Roblox+Game+Developer+🎮;SaaS+Builder+%F0%9F%9B%A0%EF%B8%8F;TikTok+Project+Coming+Soon+%F0%9F%8E%B5;Always+building+something+new...)](https://git.io/typing-svg)
 
 </div>
